@@ -1,0 +1,10 @@
+Provide your answer for Q2 here:
+PART A:
+calloc vs malloc
+- calloc initializes memory to zero
+- malloc dynamically allocates memory at runtime
+
+PART B:
+calloc vs malloc speed
+- calloc: initializing memory to zero can take more time, but only if the memory is large
+- malloc: if memory isnt going to be read before writing
